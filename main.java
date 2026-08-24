@@ -189,7 +189,7 @@ public class main {
     }
 
     private static void mostrarMenu() {
-        System.out.println("========= MENÚ =========");
+        System.out.println("========= MENU =========");
         System.out.println("-- Cuentas --");
         System.out.println("1. Crear cuenta");
         System.out.println("2. Depositar");
